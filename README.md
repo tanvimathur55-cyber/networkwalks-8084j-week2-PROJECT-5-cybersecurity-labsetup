@@ -37,7 +37,7 @@ Profile: Ping scan
 Command used
 nmap -sn 192.168.0.0/24
 
-# SCREENSHOT OF Zenmap Configuration
+### Network Configuration
 <img width="624" height="396" alt="image" src="https://github.com/user-attachments/assets/5f140495-b0b4-4d33-b2d7-ec95067518dd" />
 
-
+5. Performing the Network Scan
