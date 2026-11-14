@@ -3,15 +3,19 @@
 
 NetworkWalks Cybersecurity Internship – Week 2
 Intern: Tanvi Mathur
+
 Batch: B084J
+
 Date: 14 November 2026
+
 Operating System: Windows 11
+
 Tool: Zenmap / Nmap 7.99.3
 
 ## Project Overview Using Zenmap identify and locate any active devices on the local network.
--"Identify the local network setup".
+-Identify the local network setup.
 
--"Use host discovery".
+-Use host discovery.
 -Analyze results of host discovery.
 -Visualize network topology.
 
