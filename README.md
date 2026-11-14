@@ -15,9 +15,13 @@ Tool: Zenmap / Nmap 7.99.3
 
 ## Project Overview Using Zenmap identify and locate any active devices on the local network.
 -Identify the local network setup.
+
 -Use host discovery.
+
 -Analyze results of host discovery.
+
 -Visualize network topology.
+
 
 
 #Tools used
