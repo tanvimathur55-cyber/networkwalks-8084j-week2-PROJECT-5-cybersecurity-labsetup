@@ -2,8 +2,7 @@
 
 NetworkWalks Cybersecurity Internship – Week 2
 
-Objective: Using Zenmap identify and locate any active devices on the local network.
-
+## Project Overview Using Zenmap identify and locate any active devices on the local network.
 Identify the local network setup.
 Use host discovery.
 Analyze results of host discovery.
