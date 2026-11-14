@@ -83,7 +83,7 @@ Five hosts were reported as active during the scan.
 -Host discovery alone does not confirm security vulnerabilities.
 
 
-###7. Security Considerations
+### 7. Security Considerations
 -The scan was restricted to an owned or authorized local network.
 
 -No exploitation or credential attacks were performed.
@@ -92,7 +92,7 @@ Five hosts were reported as active during the scan.
 
 -Further testing requires appropriate permission.
 
-###8.Conclusion
+### 8.Conclusion
 
 This has given me hands-on experience using Zenmap to detect networks. 
 I have learnt how to determine the local network settings, set up a ping scan, interpret results and create a network topology. These skills can be used when starting out with discovery in Cybersecurity Assessments.
