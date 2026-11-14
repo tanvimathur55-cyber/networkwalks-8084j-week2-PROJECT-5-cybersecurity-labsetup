@@ -9,17 +9,21 @@ NetworkWalks Cybersecurity Internship – Week 2
 -Visualize network topology.
 
 
-2. Tools Used
+#Tools used
 Windows 11
 Command Prompt
 Zenmap
 Nmap 7.99.3
 
-3. Identifying the Local Network
-   This displayed the IPv4 address, subnet mask, and default gateway.
+3. # Identifying Local network
+    This displayed the IPv4 address, subnet mask, and default gateway.
 
-Network Configuration
-Parameter	Value
-Network	192.168.0.0/24
-Subnet Mask	255.255.255.0
-Network Type	Private LAN
+
+### Network Configuration
+
+| Parameter | Value |
+| :--- | :--- |
+| Network | 192.168.0.0/24 |
+| Subnet Mask | 255.255.255.0 |
+| Network Type | Private LAN |
+
