@@ -15,8 +15,8 @@ Command Prompt
 Zenmap
 Nmap 7.99.3
 
-3. # Identifying Local network
-    This displayed the IPv4 address, subnet mask, and default gateway.
+#3.Identifying Local network
+This displayed the IPv4 address, subnet mask, and default gateway.
 
 
 ### Network Configuration
@@ -29,10 +29,15 @@ Nmap 7.99.3
 
 <img width="621" height="207" alt="image" src="https://github.com/user-attachments/assets/0ff9a2fd-d01d-4f30-9f39-af52b77d9075" />
 
-4. #  Configuring Zenmap
+#4. Configuring Zenmap
    Zenmap was set up as follows:
 Target: 192.168.0.0/24
 Profile: Ping scan
 
+Command used
 nmap -sn 192.168.0.0/24
+
+#SCREENSHOT OF Zenmap Configuration
+<img width="624" height="396" alt="image" src="https://github.com/user-attachments/assets/5f140495-b0b4-4d33-b2d7-ec95067518dd" />
+
 
