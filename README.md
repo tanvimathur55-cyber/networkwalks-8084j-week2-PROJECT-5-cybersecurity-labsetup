@@ -41,4 +41,30 @@ nmap -sn 192.168.0.0/24
 ### Network Configuration
 <img width="624" height="396" alt="image" src="https://github.com/user-attachments/assets/5f140495-b0b4-4d33-b2d7-ec95067518dd" />
 
-5. Performing the Network Scan
+###5. Performing the Network Scan
+ A ping scan was performed on the local network.
+
+ ### Scan Results
+
+| Metric | Result |
+| :--- | :--- |
+| IP `addresses scanned` | `256` |
+| `Active hosts` | `5` |
+| `Scan duration` | `4.81 seconds` |
+| `Scan type` | `Ping scan` |
+| `Nmap version` | `7.99.3` |
+Five hosts were reported as active during the scan.
+
+###Screenshot – Network Topology
+<img width="797" height="772" alt="image" src="https://github.com/user-attachments/assets/51f720c2-71bb-41b5-acf2-298106b83dd9" />
+
+###6. Observations
+-Zenmap provides a graphical interface for Nmap.
+-The ping scan identified five responsive hosts.
+-Host-discovery results represent the network state at the time of scanning.
+-The Topology tab helped visualize the discovered devices.
+-Host discovery alone does not confirm security vulnerabilities.
+
+
+
+   
