@@ -60,8 +60,11 @@ Five hosts were reported as active during the scan.
 
 ###6. Observations
 -Zenmap provides a graphical interface for Nmap.
+
 -The ping scan identified five responsive hosts.
+
 -Host-discovery results represent the network state at the time of scanning.
+
 -The Topology tab helped visualize the discovered devices.
 -Host discovery alone does not confirm security vulnerabilities.
 
