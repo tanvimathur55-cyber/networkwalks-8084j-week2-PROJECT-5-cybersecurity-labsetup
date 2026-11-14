@@ -52,6 +52,9 @@ nmap -sn 192.168.0.0/24
 ### Network Configuration
 <img width="624" height="396" alt="image" src="https://github.com/user-attachments/assets/5f140495-b0b4-4d33-b2d7-ec95067518dd" />
 
+<img width="975" height="468" alt="image" src="https://github.com/user-attachments/assets/c9b5e707-7b68-4aaf-838f-f44915389a1d" />
+
+
 ###5. Performing the Network Scan
  A ping scan was performed on the local network.
 
@@ -89,9 +92,10 @@ Five hosts were reported as active during the scan.
 
 -Further testing requires appropriate permission.
 
-###8. Conclusion
+###8.Conclusion
 
-This has given me hands-on experience using Zenmap to detect networks. I have learnt how to determine the local network settings, set up a ping scan, interpret results and create a network topology. These skills can be used when starting out with discovery in Cybersecurity Assessments.
+This has given me hands-on experience using Zenmap to detect networks. 
+I have learnt how to determine the local network settings, set up a ping scan, interpret results and create a network topology. These skills can be used when starting out with discovery in Cybersecurity Assessments.
 
 
    
