@@ -43,7 +43,7 @@ This displayed the IPv4 address, subnet mask, and default gateway.
 
 <img width="621" height="207" alt="image" src="https://github.com/user-attachments/assets/0ff9a2fd-d01d-4f30-9f39-af52b77d9075" />
 
-#4. Configuring Zenmap
+# 4. Configuring Zenmap
    Zenmap was set up as follows:
 Target: 192.168.0.0/24
 Profile: Ping scan
